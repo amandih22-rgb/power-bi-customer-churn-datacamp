@@ -4,53 +4,71 @@
 
 This project explores customer churn for Databel, a fictional telecommunications company, using Microsoft Power BI.
 
-The analysis investigates customer churn rates and patterns to better understand why customers are leaving and identify insights that could help reduce churn.
+The case study involved analysing customer churn, investigating patterns associated with customer retention, and developing dashboard-style reports to communicate insights.
 
-This project was completed as part of a DataCamp Power BI case study.
+This project was completed as part of the **DataCamp Case Study: Analyzing Customer Churn in Power BI**.
 
 ## Objectives
 
-- Analyse overall customer churn
-- Investigate patterns in customer churn
-- Identify factors associated with customers leaving
-- Develop dashboard-style report pages
-- Communicate data-driven insights to stakeholders
+- Analyse customer churn rates
+- Explore patterns in customer churn
+- Investigate factors associated with customers leaving
+- Develop measures and calculated fields in Power BI
+- Create dashboard-style visualisations
+- Communicate analytical findings clearly
 
 ## Tools & Technologies
 
-- Microsoft Power BI
-- DAX
+- **Power BI**
+- **DAX**
 - Data visualisation
-- Data analysis
+- Exploratory data analysis
 
 ## Analysis
 
-The project was completed across three main stages.
+The case study covered three main areas:
 
-### 1. Exploratory Analysis
+### Exploratory Analysis
 
-Explored the dataset and created Power BI measures to develop an understanding of customer churn.
+Explored the customer dataset and developed measures to understand overall churn.
 
-### 2. Investigating Churn Patterns
+### Investigating Churn Patterns
 
-Investigated customer characteristics and patterns to better understand potential factors associated with churn.
+Examined customer characteristics and different groups to investigate patterns associated with churn.
 
-### 3. Visualising the Analysis
+### Visualising the Analysis
 
-Created dashboard-style report pages to communicate the analysis and findings in a clear and accessible format.
+Developed dashboard-style report pages using Power BI to present the analysis and make findings easier to interpret.
+
+## What I Learned
+
+This project strengthened my practical understanding of using Power BI for data analysis and business-focused reporting.
+
+Key skills developed included:
+
+- Creating measures and calculated fields using **DAX**
+- Exploring and analysing customer data
+- Identifying patterns and trends through visualisation
+- Designing interactive and dashboard-style reports
+- Using different visualisation techniques to communicate findings
+- Presenting data in a clear and accessible format for stakeholders
+- Translating analytical results into meaningful insights
 
 ## Key Skills Demonstrated
 
 - Data analysis
 - Exploratory data analysis
 - Data visualisation
-- DAX measures
+- DAX
 - Dashboard development
-- Identifying patterns and trends
-- Communicating data-driven insights
+- Analytical problem solving
+- Data storytelling
+- Communicating insights to stakeholders
 
 ## Project Context
 
 This project was completed as part of the **DataCamp Case Study: Analyzing Customer Churn in Power BI**.
+
+The project provided practical experience applying Power BI to a customer churn problem, from exploratory analysis through to visualisation and reporting.
 
 [View my DataCamp Statement of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/c3fd3f9aa68dad7ca426dc8d35871dbc87b44458?raw=1)
